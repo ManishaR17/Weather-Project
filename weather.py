@@ -31,5 +31,5 @@ city1.print_weather_data()
 
 city2 = City("Philadelphia",39.9526, -75.1652, units="imperial")
 city2.print_weather_data()
-print(city2.response_json)
+#print(city2.response_json)
 
